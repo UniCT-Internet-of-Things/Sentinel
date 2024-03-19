@@ -1,0 +1,14 @@
+flask
+psycopg2-binary
+Flask-SQLAlchemy
+Flask-CORS
+flask_mqtt
+flask-bcrypt
+Flask-Session
+python-dotenv
+redis
+flask-socketio
+eventlet
+psycogreen
+gevent
+sqlalchemy
